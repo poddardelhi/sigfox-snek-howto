@@ -1,6 +1,18 @@
-# Getting started with sigfox Network Emulator Kit (SNEK)
+# Getting started with Sigfox Network Emulator Kit (SNEK)
 This is a step-by-step guide to connect your sigfox dev kit/module/design to the SNEK.
 The full setup documentation is available on the support download link: http://www.sigfox.com/support/download
+
+##0. How do I get one ?
+
+The SNEK is a tool designed to allow you to try out their Sigfox solution : 
+* If you don't have Sigfox coverage in your area yet
+* If you need to test in a different Radio Configuration.
+
+If you want to get one, please send an email to devrelations@sigfox.com , providing us :
+* A brief description of your project : personal/professionnal/experimentation
+* Personal Information
+
+We'll get back in touch as soon as possible.
 
 ## 1. Requirements
 - SNEK hardware including RF cable (SMA or uFL) and attenuator
